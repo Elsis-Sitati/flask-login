@@ -8,6 +8,6 @@ I am learning how to use flask by following a tutorial by Miguel Grinberg on Fla
 
 3. Flask-SQLAlchemy
 
-4. 4. Flask-Wtf
+4. Flask-Wtf
 
 5. Flask SQLAlchemyMigrate
